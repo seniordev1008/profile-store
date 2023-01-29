@@ -1,4 +1,4 @@
-# Profile Store | MERN
+# Profile Store | MERN STACK
 
 A MERN stack app for storing profile links of people you admire, at one place.
 
